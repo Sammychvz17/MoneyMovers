@@ -1,0 +1,9 @@
+{
+    "name": "Money Movers",
+    "short_name": "Money",
+    "display": "standalone",
+    "start_url": "../index.html",
+    "description": "An app that allows you to track your expenses and deposits.",
+    "background_color": "#ffffff",
+    "theme_color": "#097CF1"
+  }
